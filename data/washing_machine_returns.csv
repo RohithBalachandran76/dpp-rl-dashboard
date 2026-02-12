@@ -1,0 +1,6 @@
+product_id,condition_grade,repairability_score,disassembly_time_min,mass_kg,co2_mfg_kg,market_value_reuse,market_value_reman,scrap_value,info_completeness
+WM-001,B,8,40,65,320,120,200,25,0.9
+WM-002,C,5,55,68,330,80,150,30,0.7
+WM-003,A,9,35,60,300,150,220,20,0.95
+WM-004,D,3,70,72,350,40,90,35,0.4
+WM-005,B,7,45,66,310,110,180,28,0.85
